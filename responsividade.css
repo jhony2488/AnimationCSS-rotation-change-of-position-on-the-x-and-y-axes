@@ -1,0 +1,44 @@
+@media (max-width: 375px) {
+    .animation {
+        margin-top: 20em;
+        margin-left: -20em;
+        margin-right: 4em;
+        border: darkblue solid 4px;
+    }
+}
+
+@media (max-width: 500px) and (min-width:376px) {
+    .animation {
+        margin-top: 20em;
+        margin-left: -22em;
+        margin-right: 4em;
+        border: darkblue solid 4px;
+    }
+}
+
+@media (max-width: 800px) and (min-width:501px) {
+    .animation {
+        margin-top: 6em;
+        margin-left: -22em;
+        margin-right: 4em;
+        border: darkblue solid 4px;
+    }
+}
+
+@media (max-width: 800px) and (min-width:501px) {
+    .animation {
+        margin-top: 6em;
+        margin-left: -22em;
+        margin-right: 4em;
+        border: darkblue solid 4px;
+    }
+}
+
+@media (max-width: 1200px) and (min-width:801px) {
+    .animation {
+        margin-top: 6.3em;
+        margin-left: -25.5em;
+        margin-right: 4em;
+        border: darkblue solid 4px;
+    }
+}
