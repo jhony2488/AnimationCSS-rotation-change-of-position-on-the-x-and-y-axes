@@ -2,30 +2,22 @@ body {
     background-color: black;
 }
 
-.container {
-    margin-top: 15em;
-    margin-left: 37em;
-    background-color: transparent;
-}
-
 .imgLogo {
     min-width: 100%;
     max-width: 100%;
     background-color: transparent;
 }
 
-.animation-target {
+.animation {
     -webkit-animation: animation 3800ms linear infinite both;
     animation: animation 3800ms linear infinite both;
     width: 10em;
     height: 10em;
     background-color: transparent;
+    margin-top: 15em;
+    margin-left: 37em;
 }
 
-.animation-target {
-    -webkit-animation: animation 3800ms linear infinite both;
-    animation: animation 3800ms linear infinite both;
-}
 @-webkit-keyframes animation {
     0% {
         -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
