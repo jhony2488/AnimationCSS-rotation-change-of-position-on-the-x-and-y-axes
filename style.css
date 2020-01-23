@@ -26,10 +26,6 @@ body {
     -webkit-animation: animation 3800ms linear infinite both;
     animation: animation 3800ms linear infinite both;
 }
-
-
-/* Generated with Bounce.js. Edit at http://bouncejs.com#%7Bl%3A1%2Cs%3A%5B%7BT%3A%22r%22%2Ce%3A%22b%22%2Cd%3A3000%2CD%3A800%2Cf%3A0%2Ct%3A360%2Cs%3A3%2Cb%3A4%7D%2C%7BT%3A%22r%22%2Ce%3A%22s%22%2Cd%3A3000%2CD%3A800%2Cf%3A0%2Ct%3A360%2Cs%3A3%2Cb%3A4%7D%2C%7BT%3A%22r%22%2Ce%3A%22b%22%2Cd%3A1500%2CD%3A800%2Cf%3A0%2Ct%3A180%2Cs%3A3%2Cb%3A4%7D%2C%7BT%3A%22r%22%2Ce%3A%22b%22%2Cd%3A2000%2CD%3A800%2Cf%3A0%2Ct%3A360%2Cs%3A3%2Cb%3A4%7D%2C%7BT%3A%22r%22%2Ce%3A%22b%22%2Cd%3A3000%2CD%3A800%2Cf%3A180%2Ct%3A360%2Cs%3A3%2Cb%3A4%7D%2C%7BT%3A%22t%22%2Ce%3A%22b%22%2Cd%3A1000%2CD%3A0%2Cf%3A%7Bx%3A0%2Cy%3A0%7D%2Ct%3A%7Bx%3A100%2Cy%3A0%7D%2Cs%3A3%2Cb%3A4%7D%5D%7D */
-
 @-webkit-keyframes animation {
     0% {
         -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
